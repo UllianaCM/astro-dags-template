@@ -11,7 +11,7 @@ import pandas as pd
 
 DEFAULT_ARGS = {
     "email_on_failure": True,
-    "owner": "Ulliana,Open in Cloud IDE",
+    "owner": "ulliana,Open in Cloud IDE",
 }
 
 
